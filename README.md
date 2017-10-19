@@ -1,2 +1,4 @@
 # hello-world
-This is my first Git
+
+
+I am bradley and this is my first Git and this is my first branch.
